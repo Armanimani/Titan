@@ -3,4 +3,8 @@
 	<s:String x:Key="/Default/RunConfigs/Config/=1D02A60BEE4B8440A60EB8ABE7D8623D/Type/@EntryValue">project</s:String>
 	<s:String x:Key="/Default/RunConfigs/Config/=1D02A60BEE4B8440A60EB8ABE7D8623D/Name/@EntryValue">sandbox</s:String>
 	<s:String x:Key="/Default/RunConfigs/Config/=1D02A60BEE4B8440A60EB8ABE7D8623D/ProjectGuid/@EntryValue">092BC5363119304288AFE84DB996092A</s:String>
-	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">1D02A60BEE4B8440A60EB8ABE7D8623D</s:String></wpf:ResourceDictionary>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">274C3C80F549154D914B7CB79B2387A2</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=274C3C80F549154D914B7CB79B2387A2/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=274C3C80F549154D914B7CB79B2387A2/Name/@EntryValue">test-core</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=274C3C80F549154D914B7CB79B2387A2/ProjectGuid/@EntryValue">162EF02A6E06C44FA187350729FA0842</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=274C3C80F549154D914B7CB79B2387A2/Type/@EntryValue">exe</s:String></wpf:ResourceDictionary>
